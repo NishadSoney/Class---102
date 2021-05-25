@@ -1,0 +1,24 @@
+Here are 3 the tasks I find boring or consume my time --
+ > Arranging things
+ > Cleaning useless files in my device (I would like to automate this task)
+ > Vaccum Cleaning
+
+Task done manually and its steps --
+ > At first the file location.
+ > Then we need to select every one of them and delete them.
+ > Then we again need to open our recycle bin and again permenantly delete every of them.
+
+Workflow --
+ > First I will have to create a code in which the files will be auto-deleted after every month (or week) .
+ > After deleting They would be directly moved to the recycle bin.
+ > Then similar work would be done in the recycle bin.
+ > Then for backup they would be moved to a cloud storage paltform.
+ > I cann access the files from there.
+ > And delete those whenever I want.
+
+Steps for above --
+ > I will create a code to delete the files (a function would contain this code) .
+ > I will set the time according to my wish (The code in the function will get time of 1 month) .
+ > Similarly I would give the code for recycle bin (I would call the function I used to delete the files) .
+ > I will provide a cloud storage platform for the deleted files (Provided with a cloud storage paltform, the files will be stored there) .
+ > There on the cloud storage i would do everything manually (This part I would do :) ) .
